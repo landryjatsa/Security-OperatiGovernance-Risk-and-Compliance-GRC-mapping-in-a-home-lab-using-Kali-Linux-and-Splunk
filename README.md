@@ -1,4 +1,4 @@
-# Security-OperatiGovernance-Risk-and-Compliance-GRC-mapping-in-a-home-lab-using-Kali-Linux-and-Splunk
+# Security-Operation-Governance-Risk-and-Compliance-GRC-mapping-in-a-home-lab-using-Kali-Linux-and-Splunk
 This project simulates a Security Operations Center (SOC) with Governance, Risk, and Compliance (GRC) mapping in a home lab using Kali Linux and Splunk. The lab collects, monitors, and analyzes logs for security events and maps alerts to NIST CSF controls.
 
 <img width="975" height="650" alt="image" src="https://github.com/user-attachments/assets/d6b1c85c-76f1-48e0-aadc-74bc33319cc7" />
